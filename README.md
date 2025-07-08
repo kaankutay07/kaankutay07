@@ -16,7 +16,7 @@ Basit FPGA Uygulamaları (Verilog): Sayısal tasarım dersinde FPGA üzerinde te
 
 
 ## Let's Connect!
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin])](https://www.linkedin.com/in/kaan-kutay-duran-a84300309/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaan-kutay-duran-a84300309/)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/durankaankutay/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/kaankutayduran)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-blue?style=for-the-badge&logo=huggingface)](https://huggingface.co/kaankutayduran)
